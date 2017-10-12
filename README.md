@@ -3,14 +3,14 @@
 ## Download
 
 1. VGGFace Model for FeatureExtraction
-```
-https://drive.google.com/open?id=0BysSXLPvHi7DVVA5UU0xUG1jSEU
-```
 
-2. lfw dataset (Optional, the repo has default dataset lfw_only6/)
-```
+https://drive.google.com/open?id=0BysSXLPvHi7DVVA5UU0xUG1jSEU
+
+
+2. lfw dataset (Optional, the repo has simple dataset lfw_only6/)
+
 https://drive.google.com/file/d/0BysSXLPvHi7DMmN5VzdsSlVqTkE/view?usp=sharing
-```
+
 
 ## Run All
 
