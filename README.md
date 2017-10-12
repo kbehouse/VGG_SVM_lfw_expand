@@ -1,15 +1,16 @@
-# vgg-face with SVM
+# VGG-Face with SVM
 
 ## Download
 
-VGGFace Model for FeatureExtraction
+1. VGGFace Model for FeatureExtraction
+```
+https://drive.google.com/open?id=0BysSXLPvHi7DVVA5UU0xUG1jSEU
+```
 
-
-
-
-lfw dataset (Optional, the repo has default dataset lfw_only6/)
-
+2. lfw dataset (Optional, the repo has default dataset lfw_only6/)
+```
 https://drive.google.com/file/d/0BysSXLPvHi7DMmN5VzdsSlVqTkE/view?usp=sharing
+```
 
 ## Run All
 
@@ -71,7 +72,7 @@ You can test one face with Predict_one_face.ipynb
 
 ## Result
 
-Test with 1680 persons with 9164 faces
+Test 1680 persons with 9164 faces
 
 (lfw faces:  from Download section lfw dataset)
 
