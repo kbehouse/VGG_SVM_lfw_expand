@@ -1,5 +1,16 @@
 # vgg-face with SVM
 
+## Download
+
+VGGFace Model for FeatureExtraction
+
+
+
+
+lfw dataset (Optional, the repo has default dataset lfw_only6/)
+
+https://drive.google.com/file/d/0BysSXLPvHi7DMmN5VzdsSlVqTkE/view?usp=sharing
+
 ## Run All
 
 You can run all from following script, each cmd explain in Run sectin 
@@ -33,7 +44,7 @@ python pic_dir_aug.py train
 
 Feature Extraction with VGGFace
 
-(NOTE: You need to download vgg_face_caffe/ from .........)
+(NOTE: You need to download vgg_face_caffe/ from Download section VGGFace Model)
 
 train_augment -> train_augment_npys
 
@@ -62,7 +73,7 @@ You can test one face with Predict_one_face.ipynb
 
 Test with 1680 persons with 9164 faces
 
-(lfw faces: ...........)
+(lfw faces:  from Download section lfw dataset)
 
 Model accuracy (%):  83.980181668 %
 
