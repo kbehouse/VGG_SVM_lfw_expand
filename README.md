@@ -87,7 +87,13 @@ Model accuracy (%):  83.980181668 %
 
 --- Use 0.127139806747 seconds only classifier.predict one face---
 ```
+``` Test One Face
+--- Use 0.0281112194061 seconds for only vggExtractor ---
+('pre_result', 506)
+--- Use 0.135752916336 seconds only classifier.predict---
+Aaron_Peirsol
 
+```
 
 # Acknowledgement
 1. Fork and thank form the repo https://github.com/wajihullahbaig/VGGFaceMatching
