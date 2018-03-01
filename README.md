@@ -4,7 +4,7 @@
 
 1. VGGFace Model for FeatureExtraction
 
-https://drive.google.com/file/d/0BysSXLPvHi7DMmN5VzdsSlVqTkE/view
+https://drive.google.com/file/d/0BysSXLPvHi7DVVA5UU0xUG1jSEU/view?usp=sharing
 
 
 2. lfw dataset (Optional, the repo has simple dataset lfw_only6/)
